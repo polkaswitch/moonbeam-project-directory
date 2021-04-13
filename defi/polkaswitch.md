@@ -1,9 +1,9 @@
 ---
 title: Polkaswitch
-description: Template to list your TestNet project or dApp in the Moonbeam documentation site
+description: Cross-chain liquidity aggregator built for traders
 ---
 
-# Title of Project/dApp with TitleCase
+# Polkaswitch - An cross-chain liquidity aggregator on Moonbeam
 
 ![Template banner image](./images/template-banner.png)
 
